@@ -2,6 +2,11 @@
 # CSC-421 Final Project
 Fall 2024 
 
+## Authors
+
+- [@Kyan-Patel](https://github.com/Kyan-Patel)
+- [@nateparkergroves](https://github.com/nateparkergroves)
+
 
 ## Project Overview
 
@@ -13,14 +18,6 @@ This repository contains code samples created for the CSC-421 Fall 2024 Final Pr
 - Memory safety principles
 
 The code samples illustrate the powerful capabilities of Rust, highlighting its strengths in systems programming, memory management, and parallel computing.
-
-
-
-
-## Authors
-
-- [@Kyan-Patel](https://github.com/Kyan-Patel)
-- [@nateparkergroves](https://github.com/nateparkergroves)
 
 
 ## Directory Tree
