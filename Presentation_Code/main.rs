@@ -9,7 +9,7 @@ fn main(){
     threads_exmaple::thread_example();
     println!("\n");
 
-    println!("Factorial Exmaple:");
+    println!("Thread vs Python Exmaple:");
     factorial::factorial();
     println!("\n");
 
