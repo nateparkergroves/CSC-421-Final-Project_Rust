@@ -1,0 +1,32 @@
+The final project asks you to choose a new, emerging, or niche programming language to analyze. You should learn enough basics of the language to write some code in the language. For example, you can follow a language tutorial, or start with open-source software someone else has written and add or change some features. On the basis of your own experience doing that, along with language documentation and other materials, analyze the language's design and features. You are encouraged (but not required) to work in groups of 2-5 people.
+
+By "new, emerging, or niche", I mean a programming language other than Python, Java, C++, C#, Javascript, and similarly popular languages. A few examples:
+
+Multiparadigm languages: Scala, Julia, Lua, Rust
+Functional languages: Haskell, Scheme, Racket, F#
+Mobile development oriented languages: Kotlin (Android), Swift (iOS)
+Domain-specific languages: GLSL (graphics), awk (text processing), Max/MSP or Puredata (music), Datalog (logic databases)
+Esoteric languages: Brainfuck, Piet
+Other: Prolog (logic programming), Futhark (parallel programming), Cuda (GPU programming)
+Of course, I don't expect you to become an expert in a new language in only three weeks. But being able to investigate a new language, understand what it's good for, and learn enough to write some trial code in it can be a useful skill. Imagine this real-world context: your boss heard about a hyped-up new language and wants you to investigate whether it makes sense for your company's next project. How would you go about evaluating the language and understanding its strengths and weaknesses? A good place to start are the language's webpage, documentation, tutorials, etc. In addition, you should get a little hands-on experience trying it out.
+
+Deliverables
+The deliverables are:
+
+Presentation: A short presentation during this class's scheduled final exam period (Dec 12, 11:20am-1:50pm). Aim for around 10 minutes.
+Code: Some code you wrote in the language, either attached to the submission or as a link to a GitHub repository. For example a small demo app you wrote in the language, or several pieces of code trying out different features. It's ok if you start with some tutorial or demo code, but in that case, explain what you changed, particularly to show that you used and understood the features of the language that you discuss in your presentation.
+In previous years, I also required a written report, but that is no longer required. You may optionally include some written documentation if you find it helps to highlight what you did. Written documentation could take the form of extended comments in the code, a README file, a demo walkthrough, etc.
+
+What to analyze
+What makes sense to focus on will vary from language to language. But you should cover these things:
+
+An overview of the language's syntax and semantics. This is the core "language" part. What type of syntax does the language have, and what are its features? Is there anything in particular that's unusual or particularly emphasized by this language, compared to others?
+What is this language, and who is it for? Some example questions: There are many languages, so why does this one exist? Is there an official standard? Is there one implementation or multiple? How are revisions to the language made, and who decides? What sort of community is there around it, and who does it target?
+A deeper dive into one or two specific features or aspects of the language, ideally ones that make it unique. For example, if you picked Kotlin (which is based on Java), you might start by looking at what's different from Java. Or if you picked a music programming language, highlight what features make it different from a general-purpose language.
+When discussing specific language features, it's often helpful to include a short code snippet in the presentation, so that you can refer to a concrete example.
+Grading
+The final project as a whole is worth 20% of your grade. This is broken down as follows:
+
+Overall analysis of the language: 10%
+Code written in the language: 5%
+Presentation: 5%
