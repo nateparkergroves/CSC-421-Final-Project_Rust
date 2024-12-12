@@ -1,4 +1,4 @@
-mod factorial;
+mod rust_sum;
 mod threads_exmaple;
 mod panic_error;
 
@@ -10,7 +10,7 @@ fn main(){
     println!("\n");
 
     println!("Thread vs Python Exmaple:");
-    factorial::factorial();
+    rust_sum::thread_sum();
     println!("\n");
 
     println!("Panic vs Error Example:");
