@@ -1,7 +1,7 @@
 use std::thread;
 use std::time::Instant;
 
-fn main() {
+fn thread_sum() {
     let ranges = vec![
         (1, 50_000_000),
         (50_000_001, 100_000_000),
